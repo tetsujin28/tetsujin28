@@ -20,7 +20,7 @@ I build the tools I wish I had on set, and I share them for free with other peop
 
 | | App | What it does | Status |
 |---|---|---|---|
-| 📦 | **[Bandua](https://github.com/tetsujin28/bandua)** | Safe offload of camera cards: copy with hash verification, dated folders, detailed log and PDF report (RED clip structure supported). Windows, macOS, Linux. Interface in English, French and Spanish. | Beta · Free · MIT |
+| 📦 | **[Bandua](https://github.com/tetsujin28/bandua)** | Safe offload of camera cards: copy with hash verification read straight from the drive, card read twice, dated folders, detailed log and PDF report, MHL re-verification. Windows and macOS. Interface in English, French and Spanish. | Beta 0.2 · Free · MIT |
 | 🩹 | **[Ataecina](https://github.com/tetsujin28/ataecina)** | Recovers video files from formatted cards and repairs unreadable MOV / MP4 files, several tools in one interface. | Beta · Free · MIT |
 
 Both apps are named after ancient Iberian deities.
