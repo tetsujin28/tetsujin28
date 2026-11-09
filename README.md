@@ -21,10 +21,12 @@ I build the tools I wish I had on set, and I share them for free with other peop
 | | App | What it does | Status |
 |---|---|---|---|
 | 📦 | **[Bandua](https://github.com/tetsujin28/bandua)** | Safe offload of camera cards: copy with hash verification read straight from the drive, card read twice, dated folders, detailed log and PDF report, MHL re-verification. Windows and macOS. Interface in English, French and Spanish. | Beta 0.2 · Free · MIT |
+| 🔎 | **[Bandua MHL Companion](https://github.com/tetsujin28/bandua-mhl-companion)** | For the people who receive the footage: reads every file back, compares it to its MHL (MHL 1.1 and ASC MHL) and tells you clip by clip what is intact, corrupt, missing or incomplete. Windows and macOS. Interface in English, French and Spanish. | Beta 0.1 · Free · MIT |
 | 🩹 | **[Ataecina](https://github.com/tetsujin28/ataecina)** | Recovers video files from formatted cards and repairs unreadable MOV / MP4 files, several tools in one interface. | Beta · Free · MIT |
 
-Both apps are named after ancient Iberian deities.
+Bandua and Ataecina are named after ancient Iberian deities; the Companion is Bandua's partner at the other end of the chain.
 Ready to use builds are on each project's **Releases** page, no install of Rust or anything else needed.
+All three are presented on my website: **[tetsujin28.github.io](https://tetsujin28.github.io)**.
 
 ### 🧰 Stack
 
@@ -44,17 +46,19 @@ Found a bug or have an idea? Open an **Issue** on the project's page, it helps a
 
 Directeur de la photographie, scénariste et réalisateur, je travaille sur de la fiction et de la production commerciale.
 Je développe aussi les outils dont j'ai besoin sur les tournages, et je les partage gratuitement :
-**Bandua** (déchargement sécurisé des cartes avec vérification par hash, log et rapport PDF) et
+**Bandua** (déchargement sécurisé des cartes avec vérification par hash, log et rapport PDF),
+**Bandua MHL Companion** (contrôle des rushes reçus à partir de leurs MHL, clip par clip) et
 **Ataecina** (récupération de vidéos sur cartes formatées, réparation de MOV / MP4 illisibles).
-Les exécutables sont dans l'onglet **Releases** de chaque projet.
+Les exécutables sont dans l'onglet **Releases** de chaque projet, et tout est présenté sur mon site : **[tetsujin28.github.io](https://tetsujin28.github.io)**.
 
 ### 🇪🇸 En español
 
 Director de fotografía, guionista y director, nacido en Barcelona y afincado en Francia.
 Desarrollo herramientas para el rodaje y las comparto gratis:
-**Bandua** (volcado seguro de tarjetas con verificación por hash, log e informe PDF) y
+**Bandua** (volcado seguro de tarjetas con verificación por hash, log e informe PDF),
+**Bandua MHL Companion** (control del material recibido a partir de sus MHL, clip por clip) y
 **Ataecina** (recuperación de vídeos en tarjetas formateadas y reparación de MOV / MP4 ilegibles).
-Los ejecutables están en la pestaña **Releases** de cada proyecto.
+Los ejecutables están en la pestaña **Releases** de cada proyecto, y todo se presenta en mi web: **[tetsujin28.github.io](https://tetsujin28.github.io)**.
 
 ---
 
